@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/glyno_bg.qm</file>
+        <file alias="ca">locale/glyno_ca.qm</file>
+        <file alias="cs">locale/glyno_cs.qm</file>
+        <file alias="da">locale/glyno_da.qm</file>
+        <file alias="de">locale/glyno_de.qm</file>
+        <file alias="en">locale/glyno_en.qm</file>
+        <file alias="en_US">locale/glyno_en_US.qm</file>
+        <file alias="es">locale/glyno_es.qm</file>
+        <file alias="fi">locale/glyno_fi.qm</file>
+        <file alias="fr_FR">locale/glyno_fr_FR.qm</file>
+        <file alias="hr">locale/glyno_hr.qm</file>
+        <file alias="it">locale/glyno_it.qm</file>
+        <file alias="ja">locale/glyno_ja.qm</file>
+        <file alias="ko_KR">locale/glyno_ko_KR.qm</file>
+        <file alias="nl">locale/glyno_nl.qm</file>
+        <file alias="pl">locale/glyno_pl.qm</file>
+        <file alias="pt">locale/glyno_pt.qm</file>
+        <file alias="pt_BR">locale/glyno_pt_BR.qm</file>
+        <file alias="ro_RO">locale/glyno_ro_RO.qm</file>
+        <file alias="ru">locale/glyno_ru.qm</file>
+        <file alias="sk">locale/glyno_sk.qm</file>
+        <file alias="sv">locale/glyno_sv.qm</file>
+        <file alias="tr">locale/glyno_tr.qm</file>
+        <file alias="uk">locale/glyno_uk.qm</file>
+        <file alias="zh_CN">locale/glyno_zh_CN.qm</file>
+        <file alias="zh_TW">locale/glyno_zh_TW.qm</file>
+    </qresource>
+</RCC>
